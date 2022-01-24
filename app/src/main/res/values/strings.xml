@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">UAS_DPM_TI5A_SEPATUAPPS_Dashboard</string>
+    <string name="app_name">UAS_DPM_TI5A_SEPATUAPPS</string>
+    <string name="judul">Sepatu Compass Gazale Black White
+Hi/Low</string>
+    <string name="isi">Dengan bangga Compass®️ mempersembahkan, koleksi
+Retrograde, koleksi yang dibuat untuk mengenang
+kembali merek Gazelle®️ yang populer pada tahun
+80  90an di Indonesia.
+Compass®️ Retrograde adalah interpretasi ulang dari
+penggalian arsip merek Gazelle yang dikembangkan
+untuk menjadi produk baru.</string>
+
+    <string name="judul2">Sepatu Compass Matcha Green/ Blue
+Hi/Low</string>
+    <string name="isi2">Terinspirasi dari makanan pencuci mulut khas Jepang
+yaitu es krim rasa teh hijau, Compass® menghadirkan
+artikel terbaru dengan nama "Matcha".
+Sejarah Matcha sendiri berasal dari negeri Tiongkok
+dimana daun teh diproses menjadi bubuk dalam ritual
+perjamuan teh tradisional.
+Artikel Matcha hadir dengan membalut unsur
+warna-warni topping penyajian es krim.</string>
+
+    <string name="judul3">Sepatu Compass Retrograde White
+Hi/Low</string>
+    <string name="isi3">Dengan bangga Compass®️ mempersembahkan koleksi
+Retrograde, koleksi yang dibuat untuk mengenang kembali
+ merek Gazelle®️ yang populer pada tahun 80 90an
+di Indonesia.
+Compass®️ Retrograde adalah interpretasi ulang dari
+ penggalian arsip merek Gazelle yang dikembangkan
+untuk menjadi produk baru.</string>
 </resources>

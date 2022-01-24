@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS_Dashboard/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/drawable/atas.xml" value="0.290625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/drawable/back.xml" value="0.290625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_dashboard.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_register.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_sepatu_compass_gazale_black_white.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_sepatu_compass_retrograde_white.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UAS_DPM_TI5A_SEPATUAPPS2/app/src/main/res/layout/activity_sepatu_matcha_green_blue.xml" value="0.4" />
       </map>
     </option>
   </component>
